@@ -1,0 +1,16 @@
+# Pomodoro data files
+pomo_sessions.json
+pomo_active.json
+
+# Ruby / general
+*.log
+*.tmp
+*.swp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Optional (if you ever use gems/bundler)
+vendor/bundle
+.bundle
