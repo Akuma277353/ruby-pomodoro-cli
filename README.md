@@ -11,7 +11,6 @@ Windows-friendly: the timer runs in the background so your terminal isn’t bloc
 - Stop early (saves) or cancel (does not save)
 - Daily focus summary (`today`)
 - Last 7 days totals (`stats`)
-- Stores sessions locally in JSON (ignored by `.gitignore`)
 
 ## Requirements
 
